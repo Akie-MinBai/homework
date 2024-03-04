@@ -6,6 +6,6 @@ public class homework {
         System.out.println("测试 v0.0.1");
         System.out.println("林冰钊 v1.0.0");
         System.out.println("陈瑞基 v2.0.1");
-        System.out.println("单泽锋 v3.0.0");
+        System.out.println("单泽锋 v3.0.1");
     }
 }
